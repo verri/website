@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 
-{{< figure class="avatar" src="/profile.jpg" >}}
+{{< figure class="avatar" src="/~verri/profile.jpg" >}}
 
 I received my BSc and PhD in Computer Science from the University of São Paulo,
 São Carlos, Brazil. I was a visiting scholar in the School of Electrical,

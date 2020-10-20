@@ -14,9 +14,6 @@ math = false  # enable KaTeX (https://katex.org/) globally
     text = "Template by Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
 
-[permalinks]
-  "/" = "/:filename"
-
 [menu]
   [[menu.main]]
     name = "About"
