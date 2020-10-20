@@ -1,0 +1,28 @@
+baseURL = "http://www.comp.ita.br/~verri/"
+languageCode = "en-us"
+title = "Filipe Verri"
+theme = "researcher"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+enableEmoji = false
+math = false  # enable KaTeX (https://katex.org/) globally
+
+[params]
+  author = "Filipe Verri"
+  # description = "A simple monospaced resume theme for Hugo."
+  # favicon = "favicon.ico"  # path to a .ico to use as favicon
+  [params.footer]
+    text = "Template by Olivier Roques"
+    url = "https://github.com/ojroques/hugo-researcher"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
