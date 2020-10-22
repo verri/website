@@ -14,6 +14,17 @@ Computer and Energy Engineering at Arizona State University, Tempe, USA, in
 Currently, I am an Adjunct Professor at the Aeronautics Institute of
 Technology in São José dos Campos, São Paulo, Brazil.
 
+- 2018-present: *Adjunct Professor*
+  - Aeronautics Institute of Technology
+- 2014-2018: *Doctorate in Computer Science*
+  - University of São Paulo
+  - Advisor: [Liang Zhao](http://dcm.ffclrp.usp.br/~zhao/)
+- 2016: *Visiting Scholar*
+  - Arizona State University
+  - Supervisor: [Ying-Cheng Lai](http://chaos1.la.asu.edu/~yclai/)
+- 2014-2018: *Bachelor of Computer Science*
+  - University of São Paulo
+
 ## Research Interest
 
 - Data Science
@@ -21,22 +32,11 @@ Technology in São José dos Campos, São Paulo, Brazil.
 - Complex Networks
 - Complex Systems
 
-## Education
-
-- 2018 - Doctorate in Computer Science
-  - University of São Paulo
-  - Advisor: [Liang Zhao](http://dcm.ffclrp.usp.br/~zhao/)
-- 2016 - Visiting Scholar
-  - Arizona State University
-  - Supervisor: [Ying-Cheng Lai](http://chaos1.la.asu.edu/~yclai/)
-- 2014 - Bachelor of Computer Science
-  - University of São Paulo
-
 ## Publications
 
 ### 2020
 
-1. **F.A.N. Verri**, C.A.C. Marcondes, D.S. Loubach, E.F. Sbruzzi, J.C. Marques, L.A. Pereira Júnior, M.R.O.A. Máximo, and V.V. Curtis. ["An Analysis on Tradable Permit Models for Last-Mile Delivery Drones"](https://doi.org/10.1109/ACCESS.2020.3030612). *IEEE Access* **8**, 186279-186290.
+1. **F.A.N. Verri**, C.A.C. Marcondes, [D.S. Loubach](http://www.comp.ita.br/~dloubach/), E.F. Sbruzzi, [J.C. Marques](http://www.comp.ita.br/~johnny/), L.A. Pereira Júnior, M.R.O.A. Máximo, and V.V. Curtis. ["An Analysis on Tradable Permit Models for Last-Mile Delivery Drones"](https://doi.org/10.1109/ACCESS.2020.3030612). *IEEE Access* **8**, 186279-186290.
 1. P. Gengo, **F.A.N. Verri** ["Semi-supervised Sentiment Analysis of Portuguese Tweets with Random Walk in Feature Sample Networks"](https://doi.org/10.1007/978-3-030-61377-8_42). In: *9th Brazilian Conference on Intelligent Systems* (BRACIS), Rio Grande, Brazil.
 1. L.G.C. Simões, **F.A.N. Verri**, and T. Yoneyama. ["Spending Segmentation and Outlier Detection in Brazilian Elections"](https://doi.org/10.5753/kdmile.2020.11960). In: *Symposium on Knowledge Discovery, Mining and Learning* (KDMiLe), Rio Grande, Brazil.
 
