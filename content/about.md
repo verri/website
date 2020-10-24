@@ -42,7 +42,7 @@ Technology in São José dos Campos, São Paulo, Brazil.
 
 ### 2019
 
-1. X. Gao, Q. Zheng, **F.A.N. Verri**, R.D. Rodrigues, and L. Zhao. ["Particle Competition for Multilayer Network Community Detection"](https://doi.org/10.1145/3318299.3318320). In: *11th International Conference* (ICNC), Zhuhai, China.
+1. X. Gao, Q. Zheng, **F.A.N. Verri**, R.D. Rodrigues, and L. Zhao. ["Particle Competition for Multilayer Network Community Detection"](https://doi.org/10.1145/3318299.3318320). In: *11th International Conference on Machine Learning and Computing* (ICMLC), Zhuhai, China.
 1. L.F.A.O. Pellicer, **F.A.N. Verri**, and V.V. Curtis. ["Enhancement on the Labeled Component Unfolding System for Parallel Implementations"](https://doi.org/10.1109/BRACIS.2019.00142). In: *8th Brazilian Conference on Intelligent Systems* (BRACIS), Salvador, Brazil.
 
 ### 2018
