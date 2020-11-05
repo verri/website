@@ -11,10 +11,10 @@ São Carlos, Brazil. I was a visiting scholar in the School of Electrical,
 Computer and Energy Engineering at Arizona State University, Tempe, USA, in
 2016.
 
-Currently, I am an Adjunct Professor at the Aeronautics Institute of
+Currently, I am an Assistant Professor at the Aeronautics Institute of
 Technology in São José dos Campos, São Paulo, Brazil.
 
-- 2018-present: *Adjunct Professor*
+- 2018-present: *Assistant Professor*
   - Aeronautics Institute of Technology
 - 2014-2018: *Doctorate in Computer Science*
   - University of São Paulo
